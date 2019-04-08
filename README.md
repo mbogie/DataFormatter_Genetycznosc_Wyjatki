@@ -1,5 +1,5 @@
 # DataFormatter_Genetycznosc_Wyjatki
 Przykłady:
-DataFormatter
-Generyczna metoda
+DataFormatter,
+Generyczna metoda,
 Wyjatki
